@@ -11,7 +11,7 @@ Fault diagnosis of rolling element bearings is essential to ensure the safety an
 
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
 
-![Image](assets/images/elephant.jpg)
+![eleele]({{ site.baseurl }}/assets/images/elephant.jpg)
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
+Try image ele one more The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
 
