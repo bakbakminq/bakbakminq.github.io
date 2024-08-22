@@ -81,7 +81,7 @@ Inconsistency is calculated from the outputs of 2 classifiers and utilized to ma
 
 ![table4]({{ site.baseurl }}/assets/images/PaperReview_AIIDA/table4.png)
 
-From the Table4, we can derive 8 conclusions.
+From the **Table 4**, we can derive 8 conclusions.
 <br>1) All UDA algorithms show performance improvement, as compared with the SO method
 <br>2) Task of IMS→CWRU is more complicated than that of CWRU→IMS
 <br>3) MMD shows better results than DANN
@@ -93,7 +93,7 @@ From the Table4, we can derive 8 conclusions.
 
 ![table5]({{ site.baseurl }}/assets/images/PaperReview_AIIDA/table5.png)
 
-And from the Table5, we can derive 2 conclusions.
+And from the **Table 5**, we can derive 2 conclusions.
 <br>1) DANN shows better results than MMD (opposite of the results found in the previous task)
 <br>2) AIIDA approach achieves the best classification performance for all cases
 
