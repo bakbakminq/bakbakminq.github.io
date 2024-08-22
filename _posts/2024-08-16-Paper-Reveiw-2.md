@@ -49,7 +49,7 @@ The following is the architecture.
 
 ![Asymmetric]({{ site.baseurl }}/assets/images/PaperReview_AIIDA/Asymmetric.png)
 
-Most previously studied approaches learn feature representation by using a symmetric feature extractor, where the source and target feature extractors have the same architecture and share the weights. However, by concentrating only on learning shared representation between the two domains through symmetric mapping, individual characteristics of each domain are ignored, which is detrimental to the discriminative power of the model for the target domain. In theory, asymmetric mapping can lead to more effective adaptation since the inherent nature of each domain is explicitly modeled to extract domain-invariant features
+Most previously studied approaches learn feature representation by using a symmetric feature extractor, where the source and target feature extractors have the same architecture and share the weights. However, by concentrating only on learning shared representation between the two domains through symmetric mapping, individual characteristics of each domain are ignored, which is detrimental to the discriminative power of the model for the target domain. In theory, asymmetric mapping can lead to more effective adaptation since the inherent nature of each domain is explicitly modeled to extract domain-invariant features.
 
 ![step1]({{ site.baseurl }}/assets/images/PaperReview_AIIDA/step1.png)
 
@@ -61,7 +61,7 @@ The marginal distributions of the source and target domains are aligned by minim
 
 ![step3]({{ site.baseurl }}/assets/images/PaperReview_AIIDA/step3.png)
 
-Since there is no label information for the target domain in UDA, it is impossible to align the class-conditional distribution. Use the inconsistency between two label classifiers, which represents the target domain region that is misclassified by the two label classifiers
+Since there is no label information for the target domain in UDA, it is impossible to align the class-conditional distribution. Use the inconsistency between two label classifiers, which represents the target domain region that is misclassified by the two label classifiers.
 
 
 **> Result and Analysis**
