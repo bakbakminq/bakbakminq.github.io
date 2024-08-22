@@ -88,12 +88,4 @@ To clearly demonstrate the effects of RMM and PMM, feature visualization results
 
 The paper proposed the Revolution and Peak Discrepancy Metrics, Revolution Matching Module, and Peak Matching Module. By applying them to three different bearing datasets and comparing the results with previous approaches, the proposed methods improved the average accuracy by 20.72% in the scenario with the largest domain discrepancy and by 18.88% under the most insufficient data condition.
 
-> The proposed approach suggests two methods for applying partial domain adaptation in mechanical systems: i) a domain knowledge filter is proposed, which reflects fault characteristics in the original signal for effective feature extraction in the mechanical engineeringdomain, and ii) a gradient alignment module is defined to align the gradient of the statistical loss function. The method proposed herein was validated using two open-source datasets; the approach demonstrated high performance and low uncertainty, as compared to other prior methods. Additionally, physical analysis of the domain knowledge filter was conducted in this work. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
-
-![eleele]({{ site.baseurl }}/assets/images/elephant.jpg)
-
-Try image ele one more The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
-
 [SNU-HAI-LAB]: https://hai.snu.ac.kr

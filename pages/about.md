@@ -13,7 +13,7 @@ School of Mechanical Engineering, Korea University (Mar. 2019 - Present)
 
 **> Research Interest**
 
-Material behaviors, Fatigue failure mechanisms, AI based prediction, Stress analysis and finite element modeling
+Material behaviors, Fatigue failure mechanisms, AI based prediction, Stress analysis and Finite Element Modeling
 
 **> Research Experience**
 
@@ -33,7 +33,8 @@ Dean’s List 1st Semester, 2024
 
 **> Patent Application**
 
-Minkyu Park, Taekyung Kim, Chankyeok Bang, Seungun Yeom, Youngjin Jeon, “System for automatically opening the vehicle door with detecting accident”, Korea: 10-2023-0102826, Aug 7, 2023
+**Minkyu Park**
+, Taekyung Kim, Chankyeok Bang, Seungun Yeom, Youngjin Jeon, “System for automatically opening the vehicle door with detecting accident”, Korea: 10-2023-0102826, Aug 7, 2023
 
 **> Projects**
 
@@ -51,5 +52,5 @@ Selected for Startup Club, Korea University Crimson Start-up Support Foundation 
 
 Advanced to the finals of the 13th KSME Student Creative Design Competition (Jul. 2023)
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+[Get it here](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EB%B0%95-2837a22b6/)
 
