@@ -2,34 +2,27 @@
 layout: page
 title: Curriculum Vitae
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/KU.jpg
 ---
+*Minkyu Park*
 
 **> Education**
 
-Joongdong High School, Seoul (Mar. 2015 – Feb. 2018)
-
-School of Mechanical Engineering, Korea University (Mar. 2019 - Present)
+Joongdong High School, Seoul (Mar. 2015 – Feb. 2018) <br> School of Mechanical Engineering, Korea University (Mar. 2019 - Present)
 
 **> Research Interest**
 
-Material behaviors, Fatigue failure mechanisms, AI based prediction, Stress analysis and Finite Element Modeling
+Material behaviors, Fatigue failure mechanisms, AI based prediction,<br>Stress analysis and Finite Element Modeling
 
 **> Research Experience**
 
-Korea University (Jul. 2023 – Jun. 2024)
+Computational Mechanics and Design Optimization Lab <br> @ Korea University (Jul. 2023 – Jun. 2024)
 
-Computational Mechanics & Design Optimization Lab
+Hyperautomation Artificial Intelligence Lab <br> @ Seoul Natoinal University (Jul. 2024 - Present)
 
 **> Awards and Honors**
 
-Semester High Honors 1st Semester, 2022
-
-Semester High Honors 2nd Semester, 2022
-
-Semester High Honors 1st Semester, 2024
-
-Dean’s List 1st Semester, 2024
+Semester High Honors 1st Semester, 2022 <br> Semester High Honors 2nd Semester, 2022 <br> Semester High Honors 1st Semester, 2024 <br> Dean’s List 1st Semester, 2024
 
 **> Patent Application**
 
@@ -38,19 +31,17 @@ Dean’s List 1st Semester, 2024
 
 **> Projects**
 
-‘Horangnabi’, Korea Univ. Model Aircraft club, Rotating Wing Team (Sep. 2019 – Mar. 2020)
+* ‘Horangnabi’, Korea Univ. Model Aircraft club, Rotating Wing Team <br> (Sep. 2019 – Mar. 2020)
 
-‘Horangnabi’, Korea Univ. Model Aircraft club, Fixed Wing Team (Mar. 2022 – Feb. 2023)
+* ‘Horangnabi’, Korea Univ. Model Aircraft club, Fixed Wing Team <br> (Mar. 2022 – Feb. 2023)
 
-Participation in 2022 Gyeongsang National Univ. Model Aircraft Competition, Scale Aircraft Division (Jul. 2022)
+* Participation in 2022 Gyeongsang National Univ. Model Aircraft Competition, Scale Aircraft Division <br> (Jul. 2022)
 
-Selected for Startup Club, Korea University Crimson Start-up Support Foundation (Nov. 2022)
+* Selected for Startup Club, Korea Univ. Crimson Start-up Support Foundation <br> (Nov. 2022)
 
-‘Kasimov’, Korea University Intelligent Robot Club (Mar. 2023 – Jun. 2023)
+* ‘Kasimov’, Korea University Intelligent Robot Club <br> (Mar. 2023 – Jun. 2023)
 
-Selected for Startup Club, Korea University Crimson Start-up Support Foundation (Jun. 2023)
-
-Advanced to the finals of the 13th KSME Student Creative Design Competition (Jul. 2023)
+* Selected for Startup Club, Korea Univ. Crimson Start-up Support Foundation <br> (Jun. 2023)
 
 [Get it here](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EB%B0%95-2837a22b6/)
 
