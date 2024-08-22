@@ -3,7 +3,7 @@ layout: post
 title:  "Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions"
 author: sal
 categories: [ Bearing, VLS ]
-image: assets/images/PaperReview_Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions/VLS.jpg
+image: assets/images/PaperReview_Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions/slide1.jpg
 ---
 
 > The first paper I will review is 'Revolution and Peak Discrepancy-Based Domain Alignment Method for Bearing Fault Diagnosis Under Very Low-Speed Conditions' written by Ph.D. candidate Seungyun Lee from [SNU HAI Lab][SNU-HAI-LAB].

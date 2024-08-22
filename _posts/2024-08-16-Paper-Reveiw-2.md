@@ -2,7 +2,7 @@
 layout: post
 title:  "Asymmetric inter-intra domain alignments (AIIDA) method for intelligent fault diagnosis of rotating machinery"
 categories: [ Unsupervised Domain Adaptation, Inter-domain adaptation, Intra-domain adaptation ]
-image: assets/images/PaperReview_AIIDA/aiida.png
+image: assets/images/PaperReview_AIIDA/slide1.png
 ---
 
 > The second paper I will review is 'Asymmetric inter-intra domain alignments (AIIDA) method for intelligent fault diagnosis of rotating machinery' written by Ph.D. candidate Jinwook Lee from [SNU HAI Lab][SNU-HAI-LAB].
