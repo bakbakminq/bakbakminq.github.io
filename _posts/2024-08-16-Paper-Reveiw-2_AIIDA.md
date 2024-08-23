@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Asymmetric inter-intra domain alignments (AIIDA) method for intelligent fault diagnosis of rotating machinery"
-categories: [ Unsupervised Domain Adaptation, Inter-domain adaptation, Intra-domain adaptation ]
+title:  "[Paper Review] Asymmetric inter-intra domain alignments (AIIDA) method for intelligent fault diagnosis of rotating machinery"
+categories: [Paper Review]
 image: assets/images/PaperReview_AIIDA/aiidafoot.jpg
 ---
 

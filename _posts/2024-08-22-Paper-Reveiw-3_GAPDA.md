@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Gradient Alignment based Partial Domain Adaptation (GAPDA) using a domain knowledge filter for fault diagnosis of bearing"
+title:  "[Paper Review] Gradient Alignment based Partial Domain Adaptation (GAPDA) using a domain knowledge filter for fault diagnosis of bearing"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [Paper Review]
 image: assets/images/GAPDA_FRONT.jpg
 ---
 COMING SOON...

@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper Review"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [AI Study]
 image: assets/images/comingsoon.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor

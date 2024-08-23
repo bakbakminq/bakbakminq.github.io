@@ -1,10 +1,29 @@
-<div class="sidebar sticky-top">        
-    <div class="sidebar-section">
-        <h5><span>Newsletter</span></h5>
-        {% include newsletter.html %}
+<div class="sidebar sticky-top">
+
+    <!-- Buy Me a Coffee 버튼 -->
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bakbakminq" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Coffee makes me happy" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+    <!-- 여백 추가 -->
+    <div style="margin-bottom: 20px;"></div> <!-- 원하는 여백 크기(px 단위)로 조정하세요 -->
+
+    
+    <!-- 위젯 버튼 추가 -->
+    <div style="margin-bottom: 20px;">
+        <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="bakbakminq" data-description="Support me on Buy me a coffee!" data-message="Help me power up!" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
     </div>
+    
     <div class="sidebar-section">
         <h5><span>Calendar</span></h5>
         <img src="{{site.baseurl}}/assets/images/aug.jpg">
+    </div>
+
+    <!-- 카테고리 섹션 -->
+    <div class="sidebar-section">
+        <h5><span>Categories</span></h5>
+        <ul>
+          <li><a href="{{ site.baseurl }}/categories#AI-Study">AI Study</a></li>
+          <li><a href="{{ site.baseurl }}/categories#Paper-Review">Paper Review</a></li>
+          <li><a href="{{ site.baseurl }}/categories#Paper-Review">Digital Signal Processing</a></li>
+        </ul>
     </div>
 </div>

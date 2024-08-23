@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper Review1"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [AI Study]
 image: assets/images/comingsoon.jpg
 ---
 COMING SOON...

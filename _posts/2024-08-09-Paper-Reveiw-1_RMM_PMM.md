@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions"
+title:  "[Paper Review] Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions"
 author: sal
-categories: [ Bearing, VLS ]
+categories: [Paper Review]
 image: assets/images/PaperReview_Revolution and peak discrepancy-based domain alignment method for bearing fault diagnosis under very low-speed conditions/slide1.PNG
 ---
 
