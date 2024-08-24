@@ -37,11 +37,20 @@ Semester High Honors 1st Semester, 2022 <br> Semester High Honors 2nd Semester, 
 
 * Participation in 2022 Gyeongsang National Univ. Model Aircraft Competition, Scale Aircraft Division <br> (Jul. 2022)
 
-* Selected for Startup Club, Korea Univ. Crimson Start-up Support Foundation <br> (Nov. 2022)
+* Selected for Startup Club, Korea Univ. Crimson Start-up Support Foundation <br> (Nov. 2022, Jun. 2023)
 
 * ‘Kasimov’, Korea University Intelligent Robot Club <br> (Mar. 2023 – Jun. 2023)
 
-* Selected for Startup Club, Korea Univ. Crimson Start-up Support Foundation <br> (Jun. 2023)
+**> Skills and Techniques**
+
+* First Class Heavy Vehicle Driver's License <br> (Jul. 2019)
+
+* Qualification in Unmanned Power Flight Devices Level 4 <br> (Feb. 2022)
+
+* Completion of MathWorks MATLAB Training, MathWorks <br> (Feb. 2023)
+
+* Computer Specialist in Spreadsheet and Database Level-Ⅰ <br> (Mar. 2023)
+
 
 [Get it here](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EB%B0%95-2837a22b6/)
 
