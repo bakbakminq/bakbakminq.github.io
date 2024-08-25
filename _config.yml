@@ -3,7 +3,7 @@ email: bakbakminq@gmail.com
 timezone: Asia/Seoul
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/hunter_img.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
