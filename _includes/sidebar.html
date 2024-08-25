@@ -1,12 +1,10 @@
 <div class="sidebar sticky-top">
-
     <!-- Buy Me a Coffee 버튼 -->
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bakbakminq" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Coffee makes me happy" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
     <!-- 여백 추가 -->
-    <div style="margin-bottom: 10px;"></div> <!-- 원하는 여백 크기(px 단위)로 조정하세요 -->
+    <div style="margin-bottom: 10px;"></div>
 
-    
     <!-- 위젯 버튼 추가 -->
     <div style="margin-bottom: 20px;">
         <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="bakbakminq" data-description="Support me on Buy me a coffee!" data-message="Help me power up!" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
@@ -28,3 +26,37 @@
         </ul>
     </div>
 </div>
+
+<!-- 'Top' 버튼을 화면의 오른쪽 아래에 고정 -->
+<button id="scrollTopBtn" class="btn btn-dark">Top</button>
+
+<!-- 버튼 위치를 조정하는 CSS -->
+<style>
+#scrollTopBtn {
+    position: fixed;
+    bottom: 100px; /* 커피 버튼과 겹치지 않도록 위로 올림 */
+    right: 20px;
+    z-index: 100; /* 버튼이 다른 요소 위에 표시되도록 설정 */
+    padding: 10px 15px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#scrollTopBtn:hover {
+    background-color: #555;
+}
+</style>
+
+<!-- 스크롤 기능을 추가하는 JavaScript -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const scrollTopBtn = document.getElementById("scrollTopBtn");
+
+    scrollTopBtn.addEventListener("click", function() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+});
+</script>
